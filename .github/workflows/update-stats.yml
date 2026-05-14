@@ -1,0 +1,31 @@
+name: Auto-Refresh LeetCode Stats
+
+on:
+  schedule:
+    # This tells the bot to run once every day at midnight UTC
+    - cron: '0 0 * * *' 
+  workflow_dispatch: # This allows you to click a button to run it manually if you want
+
+jobs:
+  refresh-cache:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Update Cache Buster Timestamp
+        run: |
+          # Generate a new unique timestamp
+          TIMESTAMP=$(date +%s)
+          
+          # Find the LeetCode link in the README and update the v= number
+          sed -i -E "s/(ext=activity&v=)[0-9]+/\1$TIMESTAMP/g" README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          # Only commit if there was actually a change
+          git diff-index --quiet HEAD || git commit -m "chore: auto-refresh leetcode stats"
+          git push
