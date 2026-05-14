@@ -43,7 +43,7 @@ I am a Computer Science Engineering student at Neil Gogte Institute of Technolog
 ### 📈 Coding Activity & Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/krishna123-?theme=tokyonight&font=Fira%20Code&ext=activity" alt="LeetCode Stats" width="48%"/>
+  <img src="https://leetcard.jacoblin.cool/krishna123-?theme=tokyonight&font=Fira%20Code&ext=activity&v=1" alt="LeetCode Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna9524&theme=tokyonight&hide_border=true&ring=38bdae&fire=38bdae&currStreakLabel=38bdae" alt="Krishna's GitHub Streak" width="48%"/>
 </p>
 
