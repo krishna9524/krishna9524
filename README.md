@@ -1,5 +1,7 @@
 <h1 align="center">Hi there, I'm Krishnachaithanya Reddy 👋</h1>
-<h3 align="center">Software Engineer | Full-Stack & AI Systems | Competitive Programmer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+%26+AI+Systems;Competitive+Programmer" alt="Typing Animation" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=krishna9524&label=Profile%20views&color=0e75b6&style=flat" alt="krishna9524" />
@@ -38,15 +40,11 @@ I am a Computer Science Engineering student at Neil Gogte Institute of Technolog
 
 ---
 
-### 📈 GitHub & Coding Activity
+### 📈 Coding Activity & Stats
 
 <p align="center">
-  <a href="https://github.com/krishna9524">
-    <img src="https://github-readme-stats.vercel.app/api?username=krishna9524&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdae&icon_color=38bdae" alt="Krishna's GitHub Stats" width="48%"/>
-  </a>
-  <a href="https://github.com/krishna9524">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna9524&theme=tokyonight&hide_border=true&ring=38bdae&fire=38bdae&currStreakLabel=38bdae" alt="Krishna's GitHub Streak" width="48%"/>
-  </a>
+  <img src="https://leetcard.jacoblin.cool/krishna123-?theme=tokyonight&font=Fira%20Code&ext=activity" alt="LeetCode Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna9524&theme=tokyonight&hide_border=true&ring=38bdae&fire=38bdae&currStreakLabel=38bdae" alt="Krishna's GitHub Streak" width="48%"/>
 </p>
 
 ---
