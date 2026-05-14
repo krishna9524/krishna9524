@@ -31,4 +31,4 @@ I am a Computer Science Engineering student at Neil Gogte Institute of Technolog
 * Structured a high-performance MongoDB aggregation pipeline to securely manage and retrieve 10,000+ extracted frames and metadata records with sub-second latency.
 
 ### 📫 Connect With Me
-* **Email:** krishna09736@gmail.com
+* **Email:** krishna92527@gmail.com
