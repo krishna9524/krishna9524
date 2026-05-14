@@ -31,4 +31,4 @@
 * [cite_start]Structured a high-performance MongoDB aggregation pipeline to securely manage and retrieve 10,000+ extracted frames and metadata records with sub-second latency[cite: 36].
 
 ### 📫 Connect With Me
-* [cite_start]**Email:** krishna97360@gmail.com [cite: 4]
+* [cite_start]**Email:** krishna92527@gmail.com [cite: 4]
